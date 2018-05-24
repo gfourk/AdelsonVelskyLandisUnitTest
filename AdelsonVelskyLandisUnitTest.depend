@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1527099559 source:d:\code\c++\codeblocks\adelsonvelskylandisunittest\main.cpp
+	"UnitTest++.h"
+	"AVLTreeTest.h"
+	"AVLNodeTest.h"
+
+1527097220 d:\code\c++\codeblocks\adelsonvelskylandisunittest\include\avltree.h
+	"AVLNode.h"
+
+1527131818 d:\code\c++\codeblocks\adelsonvelskylandisunittest\include\avlnode.h
+
+1527130368 d:\code\c++\codeblocks\adelsonvelskylandisunittest\include\avlnodetest.h
+	"UnitTest++.h"
+	"AVLNode.h"
+
+1527131368 d:\code\c++\codeblocks\adelsonvelskylandisunittest\include\avltreetest.h
+	"UnitTest++.h"
+	"AVLTree.h"
